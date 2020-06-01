@@ -1,5 +1,5 @@
 # Stan in Data
-==**Please visit my blog - [Stan in Data](https://hackmd.io/@StanS/stan-in-data) for complete articles.**==
+=== **Please visit my blog - ["Stan in Data"](https://hackmd.io/@StanS/stan-in-data) for complete articles.** ===
 > “It's the possibility of having a dream come true that makes life interesting.”\
 ― Paulo Coelho, The Alchemist
 
