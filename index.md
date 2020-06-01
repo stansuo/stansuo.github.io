@@ -1,103 +1,54 @@
-# Who is Stan S?
-###### tags: GitHub, StanS
+# Stan in Data
 
-> This note is yours, feel free to play around.  :video_game: 
-> Type on the left :arrow_left: and see the rendered result on the right. :arrow_right: 
+> “It's the possibility of having a dream come true that makes life interesting.”\
+― Paulo Coelho, The Alchemist
 
-## :memo: Where do I start?
+## What you'll find here...
+From this note, you'll find my personal advanture in data science.  
+There might include some **technical notes**, some **reflections of life**, or maybe **anything else**.  
 
-### Step 1: Change the title and add a tag
-
-- [x] Create my first HackMD note (this one!)
-- [ ] Change its title
-- [ ] Add a tag
-
-:rocket: 
-
-### Step 2: Write something in Markdown
-
-Let's try it out!
-Apply different styling to this paragraph:
-**HackMD gets everyone on the same page with Markdown.** ==Real-time collaborate on any documentation in markdown.== Capture fleeting ideas and formalize tribal knowledge.
-
-- [x] **Bold**
-- [ ] *Italic*
-- [ ] Super^script^
-- [ ] Sub~script~
-- [ ] ~~Crossed~~
-- [x] ==Highlight==
-
-:::info
-:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
-
-![](https://i.imgur.com/Cnle9f9.png)
-:::
-
-> Drag-n-drop image from your file system to the editor to paste it!
-
-### Step 3: Invite your team to collaborate!
-
-Click on the <i class="fa fa-share-alt"></i> **Sharing** menu :arrow_upper_right: and invite your team to collaborate on this note!
-
-![permalink setting demo](https://i.imgur.com/PjUhQBB.gif)
-
-- [ ] Register and sign-in to HackMD (to use advanced features :tada: ) 
-- [ ] Set Permalink for this note
-- [ ] Copy and share the link with your team
-
-:::info
-:pushpin: Want to learn more? ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials) 
-:::
+[TOC]
 
 ---
+## The NeverEnding Journey Starts Here...
+### Technical Notes
+- #### test
+### Trends and News
+### Reflections
 
-## BONUS: More cool ways to HackMD!
+---
+## A bit about myself
+### Hi, this is Stan. I see myself... 
+- curious, adventurous, and open-minded
+- love nature, traveling, reading, and thinking
+- believe in old-school virtues, and the genuine kindness of human beings
 
-- Table
+### Data Analytics | Business Development | Life Science. 
+- #### ~5 years of work experience composed of 50% **Business Analysis & Market Assessment**, 30% **Business Development**, 20% **Project Management**.
+    - Strong data-driven analytical mindset with business acumen.
+    - Experienced in exploring, accessing and strategizing for business opportunities. 
+    - Fluent in English and Mandarin with cross-cultural / functional collaboration experience. 
+- #### Education & Training: 
+    - Data Engineering
+        - Big Data Talent Development Program (6 months/ III, Taiwan)
+        - Business Analytics Nanodegree (4 months/ Udacity, U.S.A.)
+    - Business Administration
+        - International Business Administration Program (24 months/ TAITRA, Taiwan)
+    - Life Science
+        - MSc in Molecular Medicine (NTU, Taiwan)
+        - BSc in Life Science (NCU, Taiwan) 
+### External Links
+- [CakeResume](https://www.cakeresume.com/s--H61loDFiRs5fFHu_HFVxMA--/stan-suo) 
+- [Linkedin](https://www.linkedin.com/in/stansuo/)
+- [GitHub](https://github.com/stansuo/)
 
-| Features          | Tutorials               |
-| ----------------- |:----------------------- |
-| GitHub Sync       | [:link:][GitHub-Sync]   |
-| Browser Extension | [:link:][HackMD-it]     |
-| Book Mode         | [:link:][Book-mode]     |
-| Slide Mode        | [:link:][Slide-mode]    | 
-| Share & Publish   | [:link:][Share-Publish] |
+### Credentials & Certificates
+- [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/8eed95c0-4233-44a6-9313-c71082564849/linked_in_profile)
+- [Google Analytics Individual Qualification](https://drive.google.com/file/d/1Rrt5lqqWNALtk2rHhL5XAXGTp4mZbQ9-/view)
+- [MOEA Certified Big Data Analyst-Associate Level](https://drive.google.com/file/d/11SsUmPHYTc5FAPn9otZAy5B2XI_LiHr3/view?usp=sharing)
+- more to add..
 
-[GitHub-Sync]: https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github
-[HackMD-it]: https://hackmd.io/c/tutorials/%2Fs%2Fhackmd-it
-[Book-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-book
-[Slide-mode]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-create-slide-deck
-[Share-Publish]: https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-publish-note
 
-- LaTeX for formulas
 
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
 
-- Code block with color and line numbers：
-```javascript=16
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
 
-- UML diagrams
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
-- Auto-generated Table of Content
-[ToC]
-
-> Leave in-line comments! [color=#3b75c6]
-
-- Embed YouTube Videos
-
-{%youtube PJuNmlE74BQ %}
-
-> Put your cursor right behind an empty bracket {} :arrow_left: and see all your choices.
-
-- And MORE ➜ [HackMD Tutorials](https://hackmd.io/c/tutorials)
