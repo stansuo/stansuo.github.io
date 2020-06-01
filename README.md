@@ -1,1 +1,54 @@
-# stansuo.github.io
+# Stan in Data
+
+> “It's the possibility of having a dream come true that makes life interesting.”\
+― Paulo Coelho, The Alchemist
+
+## What you'll find here...
+From this note, you'll find my personal advanture in data science.  
+There might include some **technical notes**, some **reflections of life**, or maybe **anything else**.  
+
+[TOC]
+
+---
+## The NeverEnding Journey Starts Here...
+### Technical Notes
+- #### test
+### Trends and News
+### Reflections
+
+---
+## A bit about myself
+### Hi, this is Stan. I see myself... 
+- curious, adventurous, and open-minded
+- love nature, traveling, reading, and thinking
+- believe in old-school virtues, and the genuine kindness of human beings
+
+### Data Analytics | Business Development | Life Science. 
+- #### ~5 years of work experience composed of 50% **Business Analysis & Market Assessment**, 30% **Business Development**, 20% **Project Management**.
+    - Strong data-driven analytical mindset with business acumen.
+    - Experienced in exploring, accessing and strategizing for business opportunities. 
+    - Fluent in English and Mandarin with cross-cultural / functional collaboration experience. 
+- #### Education & Training: 
+    - Data Engineering
+        - Big Data Talent Development Program (6 months/ III, Taiwan)
+        - Business Analytics Nanodegree (4 months/ Udacity, U.S.A.)
+    - Business Administration
+        - International Business Administration Program (24 months/ TAITRA, Taiwan)
+    - Life Science
+        - MSc in Molecular Medicine (NTU, Taiwan)
+        - BSc in Life Science (NCU, Taiwan) 
+### External Links
+- [CakeResume](https://www.cakeresume.com/s--H61loDFiRs5fFHu_HFVxMA--/stan-suo) 
+- [Linkedin](https://www.linkedin.com/in/stansuo/)
+- [GitHub](https://github.com/stansuo/)
+
+### Credentials & Certificates
+- [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/8eed95c0-4233-44a6-9313-c71082564849/linked_in_profile)
+- [Google Analytics Individual Qualification](https://drive.google.com/file/d/1Rrt5lqqWNALtk2rHhL5XAXGTp4mZbQ9-/view)
+- [MOEA Certified Big Data Analyst-Associate Level](https://drive.google.com/file/d/11SsUmPHYTc5FAPn9otZAy5B2XI_LiHr3/view?usp=sharing)
+- more to add..
+
+
+
+
+
