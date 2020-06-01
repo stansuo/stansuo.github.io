@@ -1,20 +1,11 @@
 # Stan in Data
-
+==**Please visit my blog - [Stan in Data](https://hackmd.io/@StanS/stan-in-data) for complete articles.**==
 > “It's the possibility of having a dream come true that makes life interesting.”\
 ― Paulo Coelho, The Alchemist
 
-## What you'll find here...
-From this note, you'll find my personal advanture in data science.  
+## What you'll find there...
+From there, you'll find my personal advanture in data science.  
 There might include some **technical notes**, some **reflections of life**, or maybe **anything else**.  
-
-[TOC]
-
----
-## The NeverEnding Journey Starts Here...
-### Technical Notes
-- #### test
-### Trends and News
-### Reflections
 
 ---
 ## A bit about myself
@@ -40,7 +31,7 @@ There might include some **technical notes**, some **reflections of life**, or m
 ### External Links
 - [CakeResume](https://www.cakeresume.com/s--H61loDFiRs5fFHu_HFVxMA--/stan-suo) 
 - [Linkedin](https://www.linkedin.com/in/stansuo/)
-- [GitHub](https://github.com/stansuo/)
+- [GitHub-Repos](https://github.com/stansuo/)
 
 ### Credentials & Certificates
 - [Oracle Certified Associate, Java SE 8 Programmer](https://www.youracclaim.com/badges/8eed95c0-4233-44a6-9313-c71082564849/linked_in_profile)
