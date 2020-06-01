@@ -10,9 +10,9 @@ There might include some **technical notes**, some **reflections of life**, or m
 ---
 ## A bit about myself
 ### Hi, this is Stan. I see myself... 
-- curious, adventurous, and open-minded
-- love nature, traveling, reading, and thinking
-- believe in old-school virtues, and the genuine kindness of human beings
+- Curious, Adventurous, and Open-minded
+- Love Nature, Traveling, Reading, and Thinking
+- Believe in Old-school Virtues, and the Genuine Kindness of Human Beings
 
 ### Data Analytics | Business Development | Life Science. 
 - #### ~5 years of work experience composed of 50% **Business Analysis & Market Assessment**, 30% **Business Development**, 20% **Project Management**.
